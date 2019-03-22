@@ -1,0 +1,1 @@
+include ':app', ':sqlite-jdbc-3.23.1'
